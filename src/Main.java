@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class MovieSelection {
+public class Main {
 	
 	public static void main(String[] args) {
 		ArrayList<Movie> movieList = new ArrayList<>();
